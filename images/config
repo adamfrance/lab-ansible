@@ -4,4 +4,4 @@
 Host 51.103.38.26
   HostName 51.103.38.26
   IdentityFile ~/.ssh/ansible.pem
-  User azureuser
+  User user
