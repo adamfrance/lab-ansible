@@ -1,5 +1,3 @@
-version: "3.8"
-
 networks:
   parc_net: # nom du réseau
     driver: bridge # https://docs.docker.com/network/#network-drivers
