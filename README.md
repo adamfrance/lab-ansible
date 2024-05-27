@@ -14,6 +14,7 @@ Comporte :
 1. docker
 2. docker-compose
 3. VScode ou autre
+4. vim ou nano
 
 ## **Extensions VScode**
 

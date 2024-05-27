@@ -8,7 +8,7 @@ networks:
 
 services:
   ansible:
-    image: semifir/ansible:${ANSIBLE_VERSION}
+    image: lab/ansible:${ANSIBLE_VERSION}
     container_name: ansible
     hostname: ansible
     privileged: true

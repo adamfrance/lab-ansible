@@ -5,7 +5,7 @@ networks:
 
 services:
   node1:
-    image: semifir/ubuntu:ssh
+    image: lab/ubuntu:ssh
     build: # construction de l'image
       context: ./images/ubuntu
     container_name: node1
@@ -18,7 +18,7 @@ services:
       - 4431:443
 
   node2:
-    image: semifir/ubuntu:ssh
+    image: lab/ubuntu:ssh
     build: # construction de l'image
       context: ./images/ubuntu
     container_name: node2
@@ -31,7 +31,7 @@ services:
       - 4432:443
 
   node3:
-    image: semifir/ubuntu:ssh
+    image: lab/ubuntu:ssh
     build: # construction de l'image
       context: ./images/ubuntu
     container_name: node3
