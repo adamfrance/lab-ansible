@@ -18,8 +18,7 @@ Comporte :
 ## **Extensions VScode**
 
 1. [plugin docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-2. [plugin redhat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-3. [plugin ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
+2. [plugin ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
 
 ## **Découpage du projet**
 
