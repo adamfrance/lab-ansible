@@ -7,7 +7,7 @@ Lab pour apprendre Ansible.
 Comporte :
 
 - un conteneur avec Ansible
-- des noeuds Centos et Debian
+- des noeuds Debian
 
 ## **Prérequis**
 
